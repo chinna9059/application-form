@@ -1,0 +1,70 @@
+body{
+    background-color: blueviolet;
+}
+.input{
+    font-size:20px;
+    width:300px;
+    height:25px;
+    border-radius: 5px;
+    padding:10px;
+    color:black;
+}
+.input:hover{border: solid burlywood;}
+#input1 , #input2{
+height:25px;
+width:630px;
+font-size:20px;
+padding:10px;
+color:black;
+border-radius:5px;
+}
+#input1:hover, #input2:hover{border: solid burlywood;}
+#code1,#code2,#code3{
+    height:25px;
+    font-size:15px;
+    width:100px;
+    color:black;
+    padding:10px;
+    border-radius: 5px;
+}
+#code1:hover,#code2:hover,#code3:hover{border: solid burlywood;}
+#code4,#code5{
+width:630px;
+height:25px;
+font-size: 20px;
+color:black;
+padding:10px;
+border-radius: 5px;
+}
+#code4:hover,#code5:hover{border: solid burlywood;}
+#code6,#code7{
+    width:300px;
+    font-size:20px;
+    width:300px;
+    height:25px;
+    border-radius: 5px;
+    padding:10px;
+    color:black;
+}
+#code6:hover,#code7:hover{border: solid burlywood;}
+#code8{
+    width:630px;
+    height:100px;
+    font-size: 20px;
+    color:black;
+    border-radius: 5px;
+}
+#code8:hover{border: solid burlywood;}
+form , ol{
+margin-left:200px ;
+}
+label{
+    color:blanchedalmond;
+    font-size: 20px;
+}
+#code9{
+    margin-left: 600px;
+    width:100px;
+    height:40px;
+    border-radius: 10px;
+}
